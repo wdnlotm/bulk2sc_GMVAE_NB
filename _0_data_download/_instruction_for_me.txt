@@ -1,0 +1,2 @@
+R_LIBS_USER=/project/iprime_storage/myles_kim/R_library/4.4/
+Rscript download_lung_GSE130148.R 
